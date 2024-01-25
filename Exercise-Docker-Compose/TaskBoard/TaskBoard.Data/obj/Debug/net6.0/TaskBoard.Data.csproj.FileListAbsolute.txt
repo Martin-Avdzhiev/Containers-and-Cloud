@@ -1,0 +1,13 @@
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\bin\Debug\net6.0\TaskBoard.Data.deps.json
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\bin\Debug\net6.0\TaskBoard.Data.dll
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\bin\Debug\net6.0\TaskBoard.Data.pdb
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.csproj.AssemblyReference.cache
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.AssemblyInfoInputs.cache
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.AssemblyInfo.cs
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.csproj.CoreCompileInputs.cache
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.sourcelink.json
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.dll
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\refint\TaskBoard.Data.dll
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.pdb
+D:\Containers-and-Cloud\Exercise-Docker-Compose\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\ref\TaskBoard.Data.dll
